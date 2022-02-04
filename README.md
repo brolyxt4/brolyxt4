@@ -1,9 +1,4 @@
-### Hi there 👋
-
-
-
-
-
+[![img](broly-super.gif)](https://github.com/brolyxt4)
 
 [xxxx](https://github.com/Mr-Mittens)
 
